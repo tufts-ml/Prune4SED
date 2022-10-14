@@ -1,7 +1,5 @@
 This repo includes the implementation of TMLR submission **"Towards Accurate Subgraph Similarity Computation via Neural Graph Pruning"**
 
-The repo is built upon NeuroSED (https://arxiv.org/pdf/2112.13143.pdf).
-
 # Requirements
 The model is tested on a Linux server (32 cores and a A100 GPU) with the following packages,
 * pytorch (1.9.1)
